@@ -1,0 +1,15 @@
+Index: animated_login/android/app/src/main/kotlin/com/example/animated_login/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/animated_login/android/app/src/main/kotlin/com/example/animated_login/MainActivity.kt b/animated_login/android/app/src/main/kotlin/com/example/animated_login/MainActivity.kt
+--- a/animated_login/android/app/src/main/kotlin/com/example/animated_login/MainActivity.kt	(revision d4574def2880643394daa64a646fe26fb5b42c2a)
++++ b/animated_login/android/app/src/main/kotlin/com/example/animated_login/MainActivity.kt	(revision 238f580e617ad8bdb6612d755730ec6ac3dae870)
+@@ -1,6 +1,0 @@
+-package com.example.animated_login
+-
+-import io.flutter.embedding.android.FlutterActivity
+-
+-class MainActivity: FlutterActivity() {
+-}
